@@ -1,5 +1,5 @@
-# richdatashets-live-ethercalc-java
-(TODO) A connector for Richdatashets to Ethercalc (in Java)
+# richsheets-live-ethercalc-java
+(TODO) A connector for Richsheets to Ethercalc (in Java)
 
 Resources:
 + https://ethercalc.net/
